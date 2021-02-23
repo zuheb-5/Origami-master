@@ -1,0 +1,136 @@
+h1{
+    color: rgb(255, 255, 255);
+    background-color:#000;
+    display: flex;
+    justify-content:center ;
+}
+h2{
+    color: rgb(255, 255, 255);
+
+    display: flex;
+    justify-content:center ;
+
+
+}
+.head{
+        color: rgb(255, 255, 255);
+        padding-bottom: 150px;
+        display: flex;
+        justify-content:center ;
+    
+}
+.header{
+    color: rgb(255, 255, 255);
+    padding-top: 50px;
+    display: flex;
+    justify-content:center ;
+
+}
+body{
+    background-color: rgb(247, 218, 243);
+}
+.camel{
+    color:#000000;
+    border:solid;
+    padding: 20px;;
+    border-radius: 10px;
+    background-color:#ffffff;
+    display: flex;
+    flex-direction: column;
+
+}
+a:active{
+    opacity:0.33;
+}
+.chamen{
+    color:#000000;
+    border:solid;
+    padding: 20px;;
+    border-radius: 10px;
+    margin-left: 75px;
+    background-color:#ffffff;
+    display: flex;
+    flex-direction: column;
+
+}
+.pigion{
+    color:#000000;
+    border:solid;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 75px;
+    background-color:#ffffff;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.teddy{
+    color:#000000;
+    border:solid;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:#ffffff;
+    display: flex;
+    flex-direction: column;
+
+}
+.cicada{
+    color:#000000;
+    border:solid;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 75px;
+    background-color:#ffffff;
+    display: flex;
+    flex-direction: column;
+
+}
+.panda{
+    color:#000000;
+    border:solid;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 75px;
+    background-color:#ffffff;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.diva{
+    color:#ffffff;
+    margin: 100px;
+    display: flex;
+    justify-content:space-around ;
+
+}
+.divb{
+    color: rgb(255, 255, 255);
+    margin: 100px;
+    display: flex;
+    justify-content:space-around ;
+
+}
+
+.orgi{
+    color: rgb(255, 255, 255);
+    background-image:url("images/backgroundimg.png");
+ 
+
+}
+
+.org{
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+
+}
+p{
+    color: darkturquoise;
+}
+body{
+    color: #000;
+    border: solid;
+
+}
